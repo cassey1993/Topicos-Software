@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<biblioteca Ubicación="Chile" cantidad="1">
+<!--Comentario de la biblioteca-->
+<libro paginas="100">
+<titulo2>Libro acción 1</titulo2>
+<autor>Autor ACTION</autor>
+</libro>
+</biblioteca>

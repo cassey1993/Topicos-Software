@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ns1:Comprobante xmlns:ns1="http://creativosdigitales.co/schema/docusfera.xsd">
+<Tipo>Egresos</Tipo>
+<Numero>01554</Numero>
+<Fecha>30-1-2015</Fecha>
+<Nota>pago</Nota>
+<Empresa>
+<Codigo>73903284</Codigo>
+<Nombre>Simón Soto</Nombre>
+</Empresa>
+<Tercero>
+<Codigo>812986745</Codigo>
+<Nombre>Asociacion de Padres de Familia Colegio Alfonso Uribe Jaramillo</Nombre>
+</Tercero>
+<Totales>
+<Valor>969479</Valor>
+</Totales>
+<Contabilizacion>
+<ns1:Asiento>
+<Libro>COMUN</Libro>
+<Cuenta>
+<Codigo>151610          </Codigo>
+<Nombre>COSTO OFICINAS                          </Nombre>
+</Cuenta>
+<Tercero>
+<Codigo>812986745</Codigo>
+<Nombre>Asociacion de Padres de Familia Colegio Alfonso Uribe Jaramillo</Nombre>
+</Tercero>
+<Debitos>969479</Debitos>
+<Creditos/>
+<Libro>COMUN</Libro>
+<Cuenta>
+<Codigo>15169995        </Codigo>
+<Nombre>AII OTRAS CONSTR.                       </Nombre>
+</Cuenta>
+<Tercero>
+<Codigo>812986745</Codigo>
+<Nombre>Asociacion de Padres de Familia Colegio Alfonso Uribe Jaramillo</Nombre>
+</Tercero>
+<Debitos/>
+<Creditos>969479</Creditos>
+</ns1:Asiento>
+<ns1:Asiento>
+<Libro>COMUN</Libro>
+<Cuenta>
+<Codigo>151610          </Codigo>
+<Nombre>COSTO OFICINAS                          </Nombre>
+</Cuenta>
+<Tercero>
+<Codigo>812986745</Codigo>
+<Nombre>Asociacion de Padres de Familia Colegio Alfonso Uribe Jaramillo</Nombre>
+</Tercero>
+<Debitos>969479</Debitos>
+<Creditos/>
+<Libro>COMUN</Libro>
+<Cuenta>
+<Codigo>15169995        </Codigo>
+<Nombre>AII OTRAS CONSTR.                       </Nombre>
+</Cuenta>
+<Tercero>
+<Codigo>812986745</Codigo>
+<Nombre>Asociacion de Padres de Familia Colegio Alfonso Uribe Jaramillo</Nombre>
+</Tercero>
+<Debitos/>
+<Creditos>969479</Creditos>
+</ns1:Asiento>
+</Contabilizacion>
+</ns1:Comprobante>
